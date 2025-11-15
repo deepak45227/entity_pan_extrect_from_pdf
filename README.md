@@ -2,6 +2,8 @@
 
 This project extracts PAN numbers and corresponding Names/Organisations from large, unstructured PDF documents such as SEBI orders, financial notices, and compliance reports.
 
+Divide the data into 2 chunks take 3 attempts sending tokens gemini , pause in betwwen next attempt  , use diffrent models of gemini and final output csv 
+
 It uses:
 
 - Gemini AI (Google’s LLM)
